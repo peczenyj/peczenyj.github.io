@@ -78,4 +78,4 @@ Manual testing for logistics, financial, CMS, CRM and ERP products, plus a J2ME 
 
 **Languages:** Portuguese (native) · English (professional) · French (limited working)
 
-[GitHub](https://github.com/peczenyj) · [LinkedIn](https://linkedin.com/in/tiagopeczenyj) · tiago.peczenyj@gmail.com
+[GitHub](https://github.com/peczenyj) · [LinkedIn](https://linkedin.com/in/tiagopeczenyj) · tiago.peczenyj+cv@gmail.com
